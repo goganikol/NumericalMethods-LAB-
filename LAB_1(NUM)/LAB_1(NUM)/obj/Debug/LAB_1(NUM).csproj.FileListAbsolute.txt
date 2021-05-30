@@ -1,0 +1,10 @@
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\bin\Debug\LAB_1(NUM).exe.config
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\bin\Debug\LAB_1(NUM).exe
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\bin\Debug\LAB_1(NUM).pdb
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\obj\Debug\LAB_1(NUM).csprojAssemblyReference.cache
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\obj\Debug\LAB_1_NUM_.Form1.resources
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\obj\Debug\LAB_1_NUM_.Properties.Resources.resources
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\obj\Debug\LAB_1(NUM).csproj.GenerateResource.cache
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\obj\Debug\LAB_1(NUM).csproj.CoreCompileInputs.cache
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\obj\Debug\LAB_1(NUM).exe
+C:\Users\Nikol\source\repos\LAB_1(NUM)\LAB_1(NUM)\obj\Debug\LAB_1(NUM).pdb
